@@ -69,8 +69,8 @@
         "properties": {
           "title": "Trapperspårets start",
           "desc": "",
-          "icon": "startFlag",
-          "group": ["trapper", "ls"]
+          "icon": "hollyrosaFlag",
+          "group": ["boomerang","trapper", "ls"]
         },
         "geometry": {
           "coordinates": [

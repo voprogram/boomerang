@@ -11,7 +11,7 @@
           "properties": {
             "title": "Vässarö Runt",
             "desc": "Vandringsspår runt hela ön. Cirka 7.5km långt. Stigen är markerad med orangea markörer och pilar.",
-            "group": ["vassarorunt"],
+            "group": ["boomerang","vassarorunt"],
             "color": "orange"
           },
           "geometry": {
@@ -315,7 +315,7 @@
           "properties": {
             "title": "Vässarö Runt",
             "desc": "Vandringsspår runt hela ön. Cirka 7.5km långt. Stigen är markerad med orangea markörer och pilar.",
-            "group": ["vassarorunt"],
+            "group": ["boomerang","vassarorunt"],
             "color": "orange"
           },
           "geometry": {
@@ -715,7 +715,7 @@
           "properties": {
             "title": "Vässarö Runt",
             "desc": "Vandringsspår runt hela ön. Cirka 7.5km långt. Stigen är markerad med orangea markörer och pilar.",
-            "group": ["vassarorunt"],
+            "group": ["boomerang","vassarorunt"],
             "color": "orange"
           },
           "geometry": {

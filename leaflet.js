@@ -4,7 +4,7 @@ var lfmap = L.map('map', {
     zoom: 14,
     minZoom: 12,
     zoomControl: false,
-    layers: [MapLayers.Basemaps.OpenStreetMap],
+    layers: [MapLayers.Basemaps.OpenStreetMap, groups.boomerang],
 });
 
 // Definera kartans gränser (en bit utanför VÖ, Garpen, Bodskären)-->

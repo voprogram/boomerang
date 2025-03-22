@@ -37,10 +37,13 @@ var icons = {
         popupAnchor: [0, -40]
     }),
     hollyrosaFlag: new L.Icon({
-        iconUrl: 'icons/flagHollyrosa.png',
+        iconUrl: 'icons/boomerang.png',
         iconSize: [60, 60],
         iconAnchor: [15, 40],
-        popupAnchor: [0, -30]
+        popupAnchor: [0, -30],
+        shadowUrl: 'icons/boomerangskugga.png',
+        shadowSize: [60, 60],
+        shadowAnchor: [15, 40],
     }),
     startFlag: new L.Icon({
         iconUrl: 'icons/flagStart.svg',

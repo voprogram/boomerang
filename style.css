@@ -88,7 +88,7 @@ body,
 }
 
 .leaflet-container {
-  font-size: 12pt !important;
+  font-size: 10pt;
   font-family: var(--std-font) !important;
 }
 

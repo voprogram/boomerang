@@ -45,6 +45,7 @@ var groups = {
     miniorientering: new L.LayerGroup(),
     ls: new L.LayerGroup(),
     shortcuts: new L.LayerGroup(),
+    boomerang: new L.LayerGroup()
 };
 
 //Grupperar kartlager
